@@ -1,3 +1,3 @@
-![Demo](./assets/gitExplorer.gif)
+![Demo](./src/assets/gitExplorer.gif)
 
 
